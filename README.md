@@ -31,7 +31,17 @@ with almost `99% ACCURACY`
 <img src='https://github.com/MusadiqPasha/Chess.com-AI/blob/main/input.png'>
 
 ## Disclaimer : This chess.com bot is intended solely for educational purposes. Any use of this bot in a real-world context is strongly discouraged. The author and contributors of this bot take no responsibility for any consequences resulting from its use in any context other than educational experimentation and learning.
-## https://github.com/Exiledz/tensorflow_chessbot
+
+## Acknowledgement : 
+This project uses files from the "tensorflow_chessbot" GitHub repository of [Exiledz](https://github.com/Exiledz), which is available at [tensorflow_chessbot](https://github.com/Exiledz/tensorflow_chessbot). 
+The following files from that repository have been incorporated into this project:
+- [chessboard_finder](https://github.com/MusadiqPasha/Chess.com-AI/blob/main/chessboard_finder.py)
+- [frozen_graph](https://github.com/MusadiqPasha/Chess.com-AI/blob/main/frozen_graph.pb)
+- [helper_functions](https://github.com/MusadiqPasha/Chess.com-AI/blob/main/helper_functions.py)
+- [helper_image_loading](https://github.com/MusadiqPasha/Chess.com-AI/blob/main/helper_image_loading.py)
+- [tensorflow_chessbot](https://github.com/MusadiqPasha/Chess.com-AI/blob/main/tensorflow_chessbot.py)
+
+
 ## Just follow me and Star⭐ my repository 
 ## Thank You!!
 
