@@ -24,7 +24,8 @@ with almost `99% ACCURACY`
 - It'll automatically take the `SCREENSHOT` of the given chessboard region into `FEN NOTATION` when our timer starts.
 - It'll send the `FEN NOTATION` to `STOCKFISH` to generate the BEST MOVE.
 - You can adjust `STOCKFISH` LEVEL and DEPTH to generate the move more accurately.
-- Then the program will move the 'MOVE' suggested by `STOCKFISH` on the `CHESSBOARD` 
+- Then the program will move the 'MOVE' suggested by `STOCKFISH` on the `CHESSBOARD`
+- The program will take approximately 2 sec / move .
   
 ### Screenshots
 
@@ -45,3 +46,4 @@ The following files from that repository have been incorporated into this projec
 ## Just follow me and Star⭐ my repository 
 ## Thank You!!
 
+ 
