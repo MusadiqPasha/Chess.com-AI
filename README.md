@@ -9,7 +9,7 @@ It can play in
 
 with almost `99% ACCURACY`
 
-### What steps you have to follow??
+### Steps to Follow
 - Download or clone my Repository to your device
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project)
 - Make sure to install the modren version of `STOCKFISH` from [STOCKFISH](https://github.com/official-stockfish/Stockfish/releases/download/sf_16/stockfish-windows-x86-64-avx2.zip) and add it to the system path.
